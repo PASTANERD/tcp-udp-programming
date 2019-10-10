@@ -1,0 +1,696 @@
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] STATUS web server start 132263
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 416
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 132546
+[STATUS] RESPONSE content-type: text/html
+
+ 132546
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://203.252.119.34:50000/
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 390
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 132547
+[STATUS] RESPONSE content-type: text/html
+
+ 132547
+[STATUS] REQUEST GET /index.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 133140
+[STATUS] RESPONSE content-type: text/html
+
+ 133140
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://203.252.119.34:50000/index.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 400
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 133141
+[STATUS] RESPONSE content-type: text/html
+
+ 133141
+[ERROR] ERROR can not receive data from web browser 0
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 133459
+[STATUS] RESPONSE content-type: text/html
+
+ 133459
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 400
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 133460
+[STATUS] RESPONSE content-type: text/html
+
+ 133460
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /lsdko HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 421
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 134321
+[STATUS] RESPONSE content-type: text/html
+
+ 134321
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://203.252.119.34:50000/lsdko
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 395
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 134322
+[STATUS] RESPONSE content-type: text/html
+
+ 134322
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] STATUS web server start 136314
+[STATUS] STATUS web server start 141225
+[STATUS] REQUEST GET /lsdko HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 447
+[STATUS] RESPONSE HTTP/1.0 404 FILE NOT FOUND
+ 141258
+[STATUS] RESPONSE content-type: text/plain
+
+ 141258
+[ERROR] ERROR can not receive data from web browser 0
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 141437
+[STATUS] RESPONSE content-type: text/html
+
+ 141437
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 400
+[STATUS] RESPONSE HTTP/1.0 404 FILE NOT FOUND
+ 141438
+[STATUS] RESPONSE content-type: text/plain
+
+ 141438
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 142602
+[STATUS] RESPONSE content-type: text/html
+
+ 142602
+[STATUS] REQUEST POST /sample HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 100
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=%26%2351076%3B%26%2352292%3B%26%2350616%3B&snumber=21400646&submit=%26%2351228%3B%26%2352636%3B 705
+[STATUS] RESPONSE HTTP/1.0 404 FILE NOT FOUND
+ 142603
+[STATUS] RESPONSE content-type: text/plain
+
+ 142603
+[STATUS] STATUS web server start 1718
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 416
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 1767
+[STATUS] RESPONSE content-type: text/html
+
+ 1767
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 1795
+[STATUS] RESPONSE content-type: text/html
+
+ 1795
+[STATUS] REQUEST POST /sample HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 65
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=Chaeeon&snumber=12341234&submit=%26%2351228%3B%26%2352636%3B 669
+[STATUS] RESPONSE HTTP/1.0 404 FILE NOT FOUND
+ 1881
+[STATUS] RESPONSE content-type: text/plain
+
+ 1881
+[STATUS] STATUS web server start 11941
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 416
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 11993
+[STATUS] RESPONSE content-type: text/html
+
+ 11993
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 12023
+[STATUS] RESPONSE content-type: text/html
+
+ 12023
+[STATUS] REQUEST POST /sample HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 63
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=234123&snumber=1234123&submit=%26%2351228%3B%26%2352636%3B 667
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 12070
+[STATUS] RESPONSE content-type: text/plain
+
+ 12070
+[STATUS] STATUS web server start 23300
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 23380
+[STATUS] RESPONSE content-type: text/html
+
+ 23380
+[STATUS] REQUEST POST /sample HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=214124&snumber=124124&submit=%26%2351228%3B%26%2352636%3B 666
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 23391
+[STATUS] RESPONSE content-type: text/plain
+
+ 23391
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 23923
+[STATUS] RESPONSE content-type: text/html
+
+ 23923
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=214214&snumber=214214&submit=%26%2351228%3B%26%2352636%3B 671
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 23930
+[STATUS] RESPONSE content-type: text/html
+
+ 23930
+[STATUS] STATUS web server start 25706
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 25758
+[STATUS] RESPONSE content-type: text/html
+
+ 25758
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 66
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=chae+eon&snumber=21400646&submit=%26%2351228%3B%26%2352636%3B 675
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 25809
+[STATUS] RESPONSE content-type: text/html
+
+ 25809
+[STATUS] STATUS web server start 28978
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 29061
+[STATUS] RESPONSE content-type: text/html
+
+ 29061
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 65
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=1234134&snumber=12341234&submit=%26%2351228%3B%26%2352636%3B 674
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 29062
+[STATUS] RESPONSE content-type: text/html
+
+ 29062
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] STATUS web server start 30409
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 30452
+[STATUS] RESPONSE content-type: text/html
+
+ 30452
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 65
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=12341234&snumber=1234124&submit=%26%2351228%3B%26%2352636%3B 674
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 30453
+[STATUS] RESPONSE content-type: text/html
+
+ 30453
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] STATUS web server start 31754
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 31795
+[STATUS] RESPONSE content-type: text/html
+
+ 31795
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 66
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=12341234&snumber=12341234&submit=%26%2351228%3B%26%2352636%3B 675
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 31796
+[STATUS] RESPONSE content-type: text/html
+
+ 31796
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /index.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 49792
+[STATUS] RESPONSE content-type: text/html
+
+ 49792
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 49793
+[STATUS] RESPONSE content-type: text/html
+
+ 49793
+[ERROR] ERROR can not receive data from web browser 0
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /index.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 62013
+[STATUS] RESPONSE content-type: text/html
+
+ 62013
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET /index.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 452
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 73536
+[STATUS] RESPONSE content-type: text/html
+
+ 73536
+[STATUS] REQUEST GET /query.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 426
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 73537
+[STATUS] RESPONSE content-type: text/html
+
+ 73537
+[STATUS] REQUEST POST /sample.html HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Content-Length: 66
+Cache-Control: max-age=0
+Origin: http://203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Referer: http://203.252.119.34:50000/query.html
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+name=12341234&snumber=12341234&submit=%26%2351228%3B%26%2352636%3B 675
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 73542
+[STATUS] RESPONSE content-type: text/html
+
+ 73542
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 428
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 78689
+[STATUS] RESPONSE content-type: text/html
+
+ 78689
+[ERROR] ERROR can not receive data from web browser 0
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Upgrade-Insecure-Requests: 1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/70.0.3538.75 Mobile/15E148 Safari/605.1
+Accept-Language: ko-kr
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+ 384
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 96848
+[STATUS] RESPONSE content-type: text/html
+
+ 96848
+[STATUS] REQUEST GET /favicon.ico HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/70.0.3538.75 Mobile/15E148 Safari/605.1
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 322
+[STATUS] RESPONSE HTTP/1.0 404 FILE NOT FOUND
+ 96849
+[STATUS] RESPONSE content-type: text/plain
+
+ 96849
+[ERROR] ERROR can not receive data from web browser 0
+[ERROR] ERROR can not receive data from web browser 0
+[STATUS] REQUEST GET / HTTP/1.1
+Host: 203.252.119.34:50000
+Connection: keep-alive
+Purpose: prefetch
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7
+
+ 428
+[STATUS] RESPONSE HTTP/1.0 200 OK
+ 128744
+[STATUS] RESPONSE content-type: text/html
+
+ 128744
+[ERROR] ERROR can not receive data from web browser 0
